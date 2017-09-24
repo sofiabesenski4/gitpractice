@@ -1,3 +1,5 @@
 This is a new file:
-first commit
+first commit<changes made via github>
 tryin to make some changes
+
+MAKIN SOME CHANGEZZZ
